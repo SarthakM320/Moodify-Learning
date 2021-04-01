@@ -23,3 +23,6 @@ cells had the value 1.
 After this we plotted the number of 1's after each iteration and the number of 1's added in each iteration.
 
 Here are the pLots that we got:
+
+<img src = "Graph 2.png">
+<img src = "Graph 1.png">
