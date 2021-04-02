@@ -1,4 +1,4 @@
-# Virus Replication Simulation 
+# Simulation of Virus Replication Aamong Humans  
 
 ## Installation of Packages
 
@@ -11,8 +11,9 @@ from numpy.random import *
 ```
 
 ## What we have done in this:
-In this project we have written a code to simulate the replication of Viruses. We were given the information that the first neighbours of a cell had a probability 0.25 of changing to one
-and the second neighbours had a probability of 0.08 of changing to 1.
+In this project we have written a code to simulate the Spreading of Viruses among humans. We have a Data set of 15,000 humans denoted by cells of an array.
+
+We were given the information that the first neighbours of a cell had a probability 0.25 of changing to one and the second neighbours had a probability of 0.08 of changing to 1.
 
 
 We had to initialize a 2D array of Dimensions 100x150 and intialise one element to 1. After that we had to swap 8 elements randomily to another 8 elements and then check for the neighbours 
